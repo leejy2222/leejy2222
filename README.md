@@ -1,4 +1,15 @@
-# I am Lee JiYoon 
-학과 | 학년
---- | :---:
-컴퓨터공학과 | 2
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jiyoon%20Lee&fontSize=32)
+
+I am Jiyoon Lee, a 2025 student majoring in [Computer Engineering](https://computer.seoultech.ac.kr/) at [SEOULTECH](https://en.seoultech.ac.kr/).
+
+My interests include 
+* Software Engineering
+* Web DDevelopment
+* Artificial Intelligence
+
+
+In particular, I would like to learn more about these topics.
+1. `Collaborative Software Development`
+2. `Open Source Ecosystem`
+
+I hope to gain practical experience with these topics through Git & GitHub.
