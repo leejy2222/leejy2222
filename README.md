@@ -5,7 +5,8 @@ I am Jiyoon Lee, a 2025 student majoring in [Computer Engineering](https://compu
 I've learned
 * C++
 * Python
-, focusing on basic syntax, functions, and data structures.
+
+focusing on basic syntax, functions, and data structures.
 
 
 ## Areas of Interest
@@ -16,6 +17,7 @@ I've learned
  Artificial Intelligence | Machine Learning, Generative AI 
  Web Development | Web Applications, Front-end Technologies 
  Open Source | Open Source Ecosystem, Software Communities 
+
 
 
 In particular, I would like to learn more about these topics.
