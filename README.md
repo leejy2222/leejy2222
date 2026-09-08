@@ -4,8 +4,18 @@ I am Jiyoon Lee, a 2025 student majoring in [Computer Engineering](https://compu
 
 My interests include 
 * Software Engineering
-* Web DDevelopment
+* Web Development
 * Artificial Intelligence
+
+
+## Areas of Interest
+
+ Area | Interests 
+:---:|---
+ Software Engineering | Collaborative Development, Software Architecture 
+ Artificial Intelligence | Machine Learning, Generative AI 
+ Web Development | Web Applications, Front-end Technologies 
+ Open Source | Open Source Ecosystem, Software Communities 
 
 
 In particular, I would like to learn more about these topics.
