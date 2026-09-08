@@ -2,10 +2,10 @@
 
 I am Jiyoon Lee, a 2025 student majoring in [Computer Engineering](https://computer.seoultech.ac.kr/) at [SEOULTECH](https://en.seoultech.ac.kr/).
 
-My interests include 
-* Software Engineering
-* Web Development
-* Artificial Intelligence
+I've learned
+* C++
+* Python
+, focusing on basic syntax, functions, and data structures.
 
 
 ## Areas of Interest
