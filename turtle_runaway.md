@@ -1,5 +1,4 @@
-![header](https://capsule
-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Turtle%20Runaway!&fontSize=32)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Turtle%20Runaway!&fontSize=32)
 
 ## :turtle: 게임 소개
 
@@ -27,7 +26,7 @@ python turtle_runaway.py
 
 ---
 
-## 📦 기존 기능
+## 기존 기능
 
 기능 | 관련 코드 | 설명
 --- | --- | ---
@@ -39,7 +38,7 @@ python turtle_runaway.py
 
 ---
 
-## ✨ 추가된 기능 (jy 추가 / 수정)
+## :star: 추가된 기능 (jy 추가 / 수정)
 
 기능 | 관련 코드 | 설명
 --- | --- | ---
