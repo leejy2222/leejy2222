@@ -1,24 +1,20 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:ff4d4d&height=220&section=header&text=Turtle%20Game&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Runaway%20Turtle%20with%20Python%20turtle%20%26%20tkinter&descAlignY=58&descSize=18" alt="Turtle Game banner"/>
-</p>
+![header](https://capsule
+render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Turtle%20Runaway!&fontSize=32)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GUI-tkinter%20%2B%20turtle-2ea44f"/>
-</p>
-
-## 🐢 게임 소개
+## :turtle: 게임 소개
 
 게임 개요 : 파란 거북이(**Runner**)는 무작위로 도망다니고, 빨간 거북이(**Chaser**)는 사용자가 방향키로 조종해서 Runner를 잡는 게임
 게임 목표 : 제한 시간 **60초** 동안 최대한 많이 잡아 점수를 올리기
 
-### 실행 방법
+### 게임 실행
 
 ```bash
-python "OSS WEEK4_2.py"
+python turtle_runaway.py
 ```
 
-> Spyder에서는 F5로 바로 실행되지 않으므로 IPython 콘솔에 `!python "OSS WEEK4_2.py"` 를 입력해서 실행합니다.
+> - Mac / Linux에서는 `python3 turtle_runaway.py`로 실행해요.
+> - Linux에서 `No module named tkinter` 오류가 나면 `sudo apt install python3-tk`로 설치해요.
+> - Spyder에서는 F5로 바로 실행되지 않으므로 IPython 콘솔에 `!python turtle_runaway.py`를 입력해요.
 
 ### 조작법
 
