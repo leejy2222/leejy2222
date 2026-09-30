@@ -2,8 +2,8 @@
 
 ## :turtle: 게임 소개
 
-게임 개요 : 파란 거북이(**Runner**)는 무작위로 도망다니고, 빨간 거북이(**Chaser**)는 사용자가 방향키로 조종해서 Runner를 잡는 게임
-게임 목표 : 제한 시간 **60초** 동안 최대한 많이 잡아 점수를 올리기
+*게임 개요 : 파란 거북이(**Runner**)는 무작위로 도망다니고, 빨간 거북이(**Chaser**)는 사용자가 방향키로 조종해서 Runner를 잡는 게임
+*게임 목표 : 제한 시간 **60초** 동안 최대한 많이 잡아 점수를 올리기
 
 ### 게임 실행
 
@@ -11,9 +11,9 @@
 python turtle_runaway.py
 ```
 
-> - Mac / Linux에서는 `python3 turtle_runaway.py`로 실행해요.
-> - Linux에서 `No module named tkinter` 오류가 나면 `sudo apt install python3-tk`로 설치해요.
-> - Spyder에서는 F5로 바로 실행되지 않으므로 IPython 콘솔에 `!python turtle_runaway.py`를 입력해요.
+> - Mac / Linux에서는 `python3 turtle_runaway.py`로 실행
+> - Linux에서 `No module named tkinter` 오류가 나면 `sudo apt install python3-tk` 설치
+> - Spyder에서는 F5로 바로 실행되지 않으므로 IPython 콘솔에 `!python turtle_runaway.py`입력
 
 ### 조작법
 
